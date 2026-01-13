@@ -1,7 +1,3 @@
-Here’s a **complete README.md and Reflection** section tailored specifically for your Telco Customer Churn project with MLOps extension, written in a professional, submission-ready style:
-
----
-
 # B. README.md
 
 ## Telco Customer Churn – MLOps-Ready ML Pipeline
@@ -48,7 +44,3 @@ I chose to extend the IBM Telco Customer Churn project by improving the model an
 # C. Reflection
 
 During this project, using the coding assistant greatly helped me move faster by providing structured templates for preprocessing, modeling, and deployment. It suggested approaches for multi-model comparison, model registry, and FastAPI integration that I could adapt directly. Occasionally, some suggestions, such as handling categorical features, required adjustments because the dataset had nuances not fully captured in the generic code. The assistant was most useful in giving end-to-end workflow guidance and clean code structuring, and least useful when fine-tuning model hyperparameters, which still required my domain knowledge. Overall, it streamlined the workflow, helped me avoid common pitfalls, and allowed me to focus on applying MLOps principles and explaining decisions in a professional manner. This experience reinforced the importance of combining automated guidance with human oversight in ML engineering tasks.
-
----
-
-If you want, I can also **format this into a fully polished `.md` file** ready for submission, including **tables and visuals for model comparison**, so it looks even more professional.
